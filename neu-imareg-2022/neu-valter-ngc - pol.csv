@@ -1,0 +1,13 @@
+tecano,tpg_ord,tpo,tpg,Technical point,Technical polygon
+C,1,tpo-box-rgh-spf-coo,tpg-box-unp-spf-shp,Technical point-Box rcnn-Right-Superficial-Coordinate,Technical polygon-Box rcnn-Unpaired-Superficial-Shape
+C,2,tpo-box-lft-spf-coo,tpg-box-unp-spf-shp,Technical point-Box rcnn-Left-Superficial-Coordinate,Technical polygon-Box rcnn-Unpaired-Superficial-Shape
+D,4,tpo-blr-rgh-spf-coo,tpg-bfe-unp-spf-shp,Technical point-Box registration foot lower right-Right-Superficial-Coordinate,Technical polygon-Box registration feet-Unpaired-Superficial-Shape
+D,3,tpo-bll-lft-spf-coo,tpg-bfe-unp-spf-shp,Technical point-Box registration foot upper left-Left-Superficial-Coordinate,Technical polygon-Box registration feet-Unpaired-Superficial-Shape
+E,5,tpo-blr-lft-spf-coo,tpg-bfo-lft-spf-shp,Technical point-Box registration foot lower right-Left-Superficial-Coordinate,Technical polygon-Box registration foot-Left-Superficial-Shape
+E,6,tpo-bll-lft-spf-coo,tpg-bfo-lft-spf-shp,Technical point-Box registration foot upper left-Left-Superficial-Coordinate,Technical polygon-Box registration foot-Left-Superficial-Shape
+F,7,tpo-blr-rgh-spf-coo,tpg-bfo-rgh-spf-shp,Technical point-Box registration foot lower right-Right-Superficial-Coordinate,Technical polygon-Box registration foot-Right-Superficial-Shape
+F,8,tpo-bll-rgh-spf-coo,tpg-bfo-rgh-spf-shp,Technical point-Box registration foot upper left-Right-Superficial-Coordinate,Technical polygon-Box registration foot-Right-Superficial-Shape
+A,9,tpo-bos-rgh-spf-coo,tpg-bos-unp-spf-shp,Technical point-Box object scene-Right-Superficial-Coordinate,Technical polygon-Box object scene-Unpaired-Superficial-Shape
+A,10,tpo-bos-lft-spf-coo,tpg-bos-unp-spf-shp,Technical point-Box object scene-Left-Superficial-Coordinate,Technical polygon-Box object scene-Unpaired-Superficial-Shape
+B,11,tpo-bfd-rgh-spf-coo,tpg-bfd-unp-spf-shp,Technical point-Box face detection-Right-Superficial-Coordinate,Technical polygon-Box face detection-Unpaired-Superficial-Shape
+B,12,tpo-bfd-lft-spf-coo,tpg-bfd-unp-spf-shp,Technical point-Box face detection-Left-Superficial-Coordinate,Technical polygon-Box face detection-Unpaired-Superficial-Shape
