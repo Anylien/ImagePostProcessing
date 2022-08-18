@@ -1,5 +1,6 @@
 Antoine B.\
 2022\
+Supervised by Jiri Hylmar\
 Debug python linux with visual studio code + wsl
 
 ***PROJECT IS CLOSED. DO NOT DEVELOP.***
@@ -50,7 +51,7 @@ resulting to file [pylintrc](.pylintrc).
  > requirements.txt
  > [json_maker](json_maker.py) to create artifical triggers in s3
 
-## Image Postprocessing Workflow Diagram
+# Image Postprocessing Workflow Diagram
 
 ```mermaid
 %% commet in mmd files
@@ -88,7 +89,7 @@ style I fill: red
 
 ```
 
-# Coclusion
+# Conclusion
 
 Code [local_script](local_script.py), which is a simplified version of [lambda_function](lambda_function.py), does not return errors. Issues come with x display (running on windows)
 
