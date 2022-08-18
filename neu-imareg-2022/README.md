@@ -1,5 +1,5 @@
-Jiri Hylmar\
-2020-06-01\
+Antoine B.\
+2022\
 Debug python linux with visual studio code + wsl
 
 ***PROJECT IS CLOSED. DO NOT DEVELOP.***
